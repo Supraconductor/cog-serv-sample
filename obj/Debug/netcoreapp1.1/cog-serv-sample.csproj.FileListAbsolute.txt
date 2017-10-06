@@ -1,0 +1,9 @@
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\bin\Debug\netcoreapp1.1\cog-serv-sample.deps.json
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\bin\Debug\netcoreapp1.1\cog-serv-sample.runtimeconfig.json
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\bin\Debug\netcoreapp1.1\cog-serv-sample.runtimeconfig.dev.json
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\obj\Debug\netcoreapp1.1\cog-serv-sample.csproj.CoreCompileInputs.cache
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\obj\Debug\netcoreapp1.1\cog-serv-sample.AssemblyInfo.cs
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\bin\Debug\netcoreapp1.1\cog-serv-sample.dll
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\bin\Debug\netcoreapp1.1\cog-serv-sample.pdb
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\obj\Debug\netcoreapp1.1\cog-serv-sample.dll
+c:\Users\jfdore\Documents\GitHub\cog-serv-sample\obj\Debug\netcoreapp1.1\cog-serv-sample.pdb
